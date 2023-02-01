@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @El-Zayat
 - 👀 I’m interested in Coding & Chess
-- 🌱 I’m currently learning to become a full-stack web developer
+- 🌱 I’m currently working as a react-native developer.
 - 📫 How to reach me https://www.linkedin.com/in/mohamed-el-zayat-37932419b/
 
 <!---
